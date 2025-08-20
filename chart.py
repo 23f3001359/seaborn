@@ -48,4 +48,4 @@ plt.ylabel("Purchase Amount ($)", fontsize=12)
 
 # Save the figure
 plt.tight_layout()
-plt.savefig("chart.png", dpi=64, bbox_inches='tight')
+plt.savefig("chart.png", dpi=64)
